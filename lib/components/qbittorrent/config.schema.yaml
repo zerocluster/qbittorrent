@@ -1,7 +1,20 @@
 - $id: config
   type: object
   properties:
-    defaultModel: { type: string }
+    torrentingPort: { type: integer, format: ip-port }
+
+    nginx:
+      type: object
+      properties:
+        enabled: { type: boolean }
+        serverNames:
+          anyOf:
+            - type: "null"
+            - { type: string, format: nginx-server-name }
+            - { type: array, items: { type: string, format: nginx-server-name }, minItems: 1, uniqueItems: true }
+
+      additionalProperties: false
+      required: [enabled, serverNames]
 
   additionalProperties: false
-  required: [defaultModel]
+  required: [torrentingPort, nginx]

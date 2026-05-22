@@ -1,7 +1,11 @@
 dependencies: ~
 
 optionalDependencies:
-  - rpc
+  - nginxUpstream
 
 config:
-  defaultModel: small
+  torrentingPort: 6881
+
+  nginx:
+    enabled: true
+    serverNames: ~
