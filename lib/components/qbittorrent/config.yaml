@@ -9,4 +9,7 @@ config:
 
   nginx:
     enabled: true
+    httpPort: 80
+    httpsPort: 443
+    torrentPort: 6881
     serverNames: ~

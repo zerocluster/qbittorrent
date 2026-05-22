@@ -8,6 +8,9 @@
       type: object
       properties:
         enabled: { type: boolean }
+        httpPort: { type: integer, format: ip-port }
+        httpsPort: { type: integer, format: ip-port }
+        torrentPort: { type: integer, format: ip-port }
         serverNames:
           anyOf:
             - type: "null"
@@ -15,7 +18,7 @@
             - { type: array, items: { type: string, format: nginx-server-name }, minItems: 1, uniqueItems: true }
 
       additionalProperties: false
-      required: [enabled, serverNames]
+      required: [enabled, httpPort, httpsPort, torrentPort, serverNames]
 
   additionalProperties: false
   required: [httpPort, torrentPort, nginx]
