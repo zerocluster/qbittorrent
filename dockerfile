@@ -7,6 +7,10 @@ RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN \
 set -Eeuo pipefail
 trap 'echo "⚠  Error ($0:$LINENO, exit code: $?): $BASH_COMMAND" >&2' ERR
 
+apt-get update
+apt-get install -y \
+    qbittorrent-nox
+
 # install dependencies
 NODE_ENV=production npm install-clean
 
