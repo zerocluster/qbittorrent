@@ -2,14 +2,14 @@
     "name": "@zerocluster/qbittorrent",
     "private": true,
     "description": "qBittorrent service",
-    "homepage": "https://github.com/zerocluster/agent?tab=readme-ov-file#readme",
+    "homepage": "https://github.com/zerocluster/qbittorrent?tab=readme-ov-file#readme",
     "bugs": {
-        "url": "https://github.com/zerocluster/agent/issues",
+        "url": "https://github.com/zerocluster/qbittorrent/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zerocluster/agent.git"
+        "url": "git+https://github.com/zerocluster/qbittorrent.git"
     },
     "license": "Proprietary Software",
     "author": "root <root@softvisio.net>",
