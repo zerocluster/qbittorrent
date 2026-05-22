@@ -1,11 +1,13 @@
 dependencies:
   - "@corejslib/core"
 
-services: ~
+services:
+  rpc:
+    components:
+      qbittorrent: true
+
+defaultService: rpc
 
 components:
   env:
-    name: agent
-
-config:
-  pruneCron: "0 * * * *"
+    name: qbittorrent

@@ -9,8 +9,6 @@
 
 - $id: config
   type: object
-  properties:
-    pruneCron: { type: string, format: cron }
-
+  properties: {}
   additionalProperties: false
   required: []

@@ -1,0 +1,7 @@
+dependencies: ~
+
+optionalDependencies:
+  - rpc
+
+config:
+  defaultModel: small
