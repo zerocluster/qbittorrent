@@ -1,0 +1,16 @@
+- $id: env
+  type: object
+  properties: {}
+  required: []
+
+- $id: public-config
+  type: object
+  properties: {}
+
+- $id: config
+  type: object
+  properties:
+    pruneCron: { type: string, format: cron }
+
+  additionalProperties: false
+  required: []

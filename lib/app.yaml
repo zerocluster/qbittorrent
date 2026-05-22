@@ -1,0 +1,11 @@
+dependencies:
+  - "@corejslib/core"
+
+services: ~
+
+components:
+  env:
+    name: agent
+
+config:
+  pruneCron: "0 * * * *"

@@ -1,0 +1,31 @@
+services:
+  qbittorrent:
+    image: ghcr.io/zerocluster/qbittorrent
+    # depends_on: [postgresql]
+    init: true
+    stop_grace_period: 5m
+
+    deploy:
+      mode: global
+
+    command: run
+
+    # secrets:
+    #   - { source: qbittorrent_env.yaml, target: /var/local/package/env.yaml }
+
+    networks: [network]
+
+    volumes:
+      - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
+      - { type: bind, source: /var/run/docker.sock, target: /var/run/docker.sock }
+
+    build:
+      context: .
+      secrets:
+        - id=GITHUB_TOKEN,env=GITHUB_TOKEN
+
+# secrets:
+#   qbittorrent_env.yaml: { file: env.yaml }
+
+networks:
+  network: ~

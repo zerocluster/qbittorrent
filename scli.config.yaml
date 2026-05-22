@@ -1,0 +1,6 @@
+release:
+  enabled: true
+
+docker:
+  defaultTag: latest
+  autoTags: [main, latest, next]

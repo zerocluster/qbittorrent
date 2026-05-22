@@ -1,0 +1,28 @@
+{
+    "name": "@zerocluster/qbittorrent",
+    "private": true,
+    "description": "qBittorrent service",
+    "homepage": "https://github.com/zerocluster/agent?tab=readme-ov-file#readme",
+    "bugs": {
+        "url": "https://github.com/zerocluster/agent/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zerocluster/agent.git"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#core/*": "@corejslib/core/*",
+        "#lib/*": "./lib/*.js",
+        "#resources/*": "./resources/*"
+    },
+    "scripts": {
+        "start": "node bin/main.js run --mode=development"
+    },
+    "dependencies": {
+        "@corejslib/core": "^7.101.7"
+    }
+}
