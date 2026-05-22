@@ -1,7 +1,8 @@
 - $id: config
   type: object
   properties:
-    torrentingPort: { type: integer, format: ip-port }
+    httpPort: { type: integer, format: ip-port }
+    torrentPort: { type: integer, format: ip-port }
 
     nginx:
       type: object
@@ -17,4 +18,4 @@
       required: [enabled, serverNames]
 
   additionalProperties: false
-  required: [torrentingPort, nginx]
+  required: [httpPort, torrentPort, nginx]

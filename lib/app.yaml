@@ -2,11 +2,11 @@ dependencies:
   - "@corejslib/core"
 
 services:
-  rpc:
+  main:
     components:
       qbittorrent: true
 
-defaultService: rpc
+defaultService: main
 
 components:
   env:

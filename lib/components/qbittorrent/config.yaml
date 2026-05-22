@@ -4,7 +4,8 @@ optionalDependencies:
   - nginxUpstream
 
 config:
-  torrentingPort: 6881
+  httpPort: 80
+  torrentPort: 6881
 
   nginx:
     enabled: true
