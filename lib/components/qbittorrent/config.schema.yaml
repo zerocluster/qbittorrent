@@ -1,6 +1,7 @@
 - $id: config
   type: object
   properties:
+    username: { type: string }
     httpPort: { type: integer, format: ip-port }
     torrentPort: { type: integer, format: ip-port }
 
@@ -21,4 +22,4 @@
       required: [enabled, httpPort, httpsPort, torrentPort, serverNames]
 
   additionalProperties: false
-  required: [httpPort, torrentPort, nginx]
+  required: [username, httpPort, torrentPort, nginx]

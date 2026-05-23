@@ -4,6 +4,7 @@ optionalDependencies:
   - nginxUpstream
 
 config:
+  username: admin
   httpPort: 80
   torrentPort: 6881
 
