@@ -1,5 +1,29 @@
 # Changelog
 
+### v0.1.0-alpha.0 (2026-05-29)
+
+**New features:**
+
+- \[MINOR] feat: add password generation (● [dd6b7ff](https://github.com/zerocluster/qbittorrent/commit/dd6b7ff); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix profile path (● [e725b1c](https://github.com/zerocluster/qbittorrent/commit/e725b1c); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor passwords (● [7940bda](https://github.com/zerocluster/qbittorrent/commit/7940bda); 👬 zdm)
+
+- \[PATCH] refactor: update config (● [7b020c2](https://github.com/zerocluster/qbittorrent/commit/7b020c2), [7edebd2](https://github.com/zerocluster/qbittorrent/commit/7edebd2), [b5ea6e3](https://github.com/zerocluster/qbittorrent/commit/b5ea6e3); 👬 zdm)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [a72493f](https://github.com/zerocluster/qbittorrent/commit/a72493f); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [44d8e2d](https://github.com/zerocluster/qbittorrent/commit/44d8e2d), [5e06bce](https://github.com/zerocluster/qbittorrent/commit/5e06bce), [e72edd0](https://github.com/zerocluster/qbittorrent/commit/e72edd0), [fc13513](https://github.com/zerocluster/qbittorrent/commit/fc13513), [8fb4ed7](https://github.com/zerocluster/qbittorrent/commit/8fb4ed7), [9b53822](https://github.com/zerocluster/qbittorrent/commit/9b53822); 👬 zdm)
+
+Compare with the previous release: [v0.0.1-alpha.0...v0.1.0-alpha.0](https://github.com/zerocluster/qbittorrent/compare/v0.0.1-alpha.0...v0.1.0-alpha.0)
+
 ### v0.0.1-alpha.0 (undefined)
 
 **Bug fixes:**
