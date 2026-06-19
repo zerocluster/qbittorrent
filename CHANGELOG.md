@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.1 (2026-06-19)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile labels (● [22fb84e](https://github.com/zerocluster/qbittorrent/commit/22fb84e); 👬 zdm)
+
+Compare with the previous release: [v1.0.0...v1.0.1](https://github.com/zerocluster/qbittorrent/compare/v1.0.0...v1.0.1)
+
 ### v1.0.0 (2026-06-19)
 
 **Migration notes:**
