@@ -1,5 +1,13 @@
 # Changelog
 
+### v0.1.0-alpha.2 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f564e8d](https://github.com/zerocluster/qbittorrent/commit/f564e8d); 👬 zdm)
+
+Compare with the previous release: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/zerocluster/qbittorrent/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
 ### v0.1.0-alpha.1 (2026-06-19)
 
 **Code refactoring:**
