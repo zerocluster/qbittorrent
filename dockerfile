@@ -1,7 +1,5 @@
 FROM ghcr.io/zerocluster/node/app
 
-LABEL org.opencontainers.image.source="https://github.com/zerocluster/qbittorrent"
-
 RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN \
     <<EOF
 #!/usr/bin/env bash
