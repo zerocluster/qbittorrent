@@ -1,5 +1,17 @@
 # Changelog
 
+### v0.1.0-alpha.1 (2026-06-19)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor passwords (● [6f6d58f](https://github.com/zerocluster/qbittorrent/commit/6f6d58f); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [5da2742](https://github.com/zerocluster/qbittorrent/commit/5da2742), [07e4136](https://github.com/zerocluster/qbittorrent/commit/07e4136), [de21a0c](https://github.com/zerocluster/qbittorrent/commit/de21a0c), [10dbb67](https://github.com/zerocluster/qbittorrent/commit/10dbb67), [a51696a](https://github.com/zerocluster/qbittorrent/commit/a51696a), [bf6f050](https://github.com/zerocluster/qbittorrent/commit/bf6f050), [f735b14](https://github.com/zerocluster/qbittorrent/commit/f735b14), [a7faefe](https://github.com/zerocluster/qbittorrent/commit/a7faefe), [810f349](https://github.com/zerocluster/qbittorrent/commit/810f349), [6fafbd4](https://github.com/zerocluster/qbittorrent/commit/6fafbd4), [6f2d543](https://github.com/zerocluster/qbittorrent/commit/6f2d543), [efb0975](https://github.com/zerocluster/qbittorrent/commit/efb0975), [d43df22](https://github.com/zerocluster/qbittorrent/commit/d43df22), [ad71777](https://github.com/zerocluster/qbittorrent/commit/ad71777), [39c5096](https://github.com/zerocluster/qbittorrent/commit/39c5096), [9e7ebb4](https://github.com/zerocluster/qbittorrent/commit/9e7ebb4), [dc192fa](https://github.com/zerocluster/qbittorrent/commit/dc192fa), [7591866](https://github.com/zerocluster/qbittorrent/commit/7591866); 👬 zdm)
+
+Compare with the previous release: [v0.1.0-alpha.0...v0.1.0-alpha.1](https://github.com/zerocluster/qbittorrent/compare/v0.1.0-alpha.0...v0.1.0-alpha.1)
+
 ### v0.1.0-alpha.0 (2026-05-29)
 
 **New features:**
