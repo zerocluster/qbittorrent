@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.6 (2026-06-24)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix nginx ssl option (● [b9ac882](https://github.com/zerocluster/qbittorrent/commit/b9ac882); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [342c82a](https://github.com/zerocluster/qbittorrent/commit/342c82a); 👬 zdm)
+
+Compare with the previous release: [v1.0.5...v1.0.6](https://github.com/zerocluster/qbittorrent/compare/v1.0.5...v1.0.6)
+
 ### v1.0.5 (2026-06-23)
 
 **Other changes:**
