@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.9 (2026-07-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use buffered random values (● [6002d7d](https://github.com/zerocluster/qbittorrent/commit/6002d7d), [24bd595](https://github.com/zerocluster/qbittorrent/commit/24bd595); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [1136f04](https://github.com/zerocluster/qbittorrent/commit/1136f04), [78eed5f](https://github.com/zerocluster/qbittorrent/commit/78eed5f), [f6e2267](https://github.com/zerocluster/qbittorrent/commit/f6e2267), [f55083f](https://github.com/zerocluster/qbittorrent/commit/f55083f), [ed7fb48](https://github.com/zerocluster/qbittorrent/commit/ed7fb48), [621845d](https://github.com/zerocluster/qbittorrent/commit/621845d), [92e473c](https://github.com/zerocluster/qbittorrent/commit/92e473c), [0ee854a](https://github.com/zerocluster/qbittorrent/commit/0ee854a), [f644c08](https://github.com/zerocluster/qbittorrent/commit/f644c08), [1060360](https://github.com/zerocluster/qbittorrent/commit/1060360), [c0da53d](https://github.com/zerocluster/qbittorrent/commit/c0da53d); 👬 zdm)
+
+Compare with the previous release: [v1.0.8...v1.0.9](https://github.com/zerocluster/qbittorrent/compare/v1.0.8...v1.0.9)
+
 ### v1.0.8 (2026-06-25)
 
 **Other changes:**
