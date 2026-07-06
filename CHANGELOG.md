@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.14 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [1866a15](https://github.com/zerocluster/qbittorrent/commit/1866a15); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [db889f3](https://github.com/zerocluster/qbittorrent/commit/db889f3); 👬 zdm)
+
+Compare with the previous release: [v1.0.13...v1.0.14](https://github.com/zerocluster/qbittorrent/compare/v1.0.13...v1.0.14)
+
 ### v1.0.13 (2026-07-05)
 
 **Other changes:**
