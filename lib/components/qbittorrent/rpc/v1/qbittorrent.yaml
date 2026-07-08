@@ -1,0 +1,10 @@
+title: qBittorrent
+
+methods:
+  set-password:
+    title: Set password
+    params:
+      - name: password
+        required: true
+        schema:
+          type: string

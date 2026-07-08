@@ -5,6 +5,7 @@ services:
   main:
     components:
       qbittorrent: true
+      rpc: true
 
 defaultService: main
 
