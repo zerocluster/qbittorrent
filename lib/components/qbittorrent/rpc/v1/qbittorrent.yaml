@@ -1,6 +1,15 @@
 title: qBittorrent
 
 methods:
+  get-qbittorrent-version:
+    title: Get qBittorrent version
+
+  get-qbittorrent-api-version:
+    title: Get qBittorrent API version
+
+  get-qbittorrent-build-info:
+    title: Get qBittorrent build information
+
   set-password:
     title: Set password
     params:
