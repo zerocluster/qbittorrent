@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.0 (2026-07-09)
+
+**New features:**
+
+- \[MINOR] feat: add rpc (● [f3aa292](https://github.com/zerocluster/qbittorrent/commit/f3aa292), [988f0e1](https://github.com/zerocluster/qbittorrent/commit/988f0e1), [e2170d3](https://github.com/zerocluster/qbittorrent/commit/e2170d3), [cacb501](https://github.com/zerocluster/qbittorrent/commit/cacb501), [78ab8a2](https://github.com/zerocluster/qbittorrent/commit/78ab8a2), [93384e4](https://github.com/zerocluster/qbittorrent/commit/93384e4), [05ccbaf](https://github.com/zerocluster/qbittorrent/commit/05ccbaf), [2980bb7](https://github.com/zerocluster/qbittorrent/commit/2980bb7); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [08f884b](https://github.com/zerocluster/qbittorrent/commit/08f884b), [3eb425f](https://github.com/zerocluster/qbittorrent/commit/3eb425f), [c3ee6b8](https://github.com/zerocluster/qbittorrent/commit/c3ee6b8); 👬 zdm)
+
+Compare with the previous release: [v1.0.15...v1.1.0](https://github.com/zerocluster/qbittorrent/compare/v1.0.15...v1.1.0)
+
 ### v1.0.15 (2026-07-07)
 
 **Other changes:**
