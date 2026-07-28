@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/qbittorrent",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "private": true,
     "description": "qBittorrent service",
     "homepage": "https://github.com/zerocluster/qbittorrent?tab=readme-ov-file#readme",
