@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.11 (2026-07-30)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cdf2c3d](https://github.com/zerocluster/qbittorrent/commit/cdf2c3d), [64bb896](https://github.com/zerocluster/qbittorrent/commit/64bb896); 👬 zdm)
+
+Compare with the previous release: [v1.1.10...v1.1.11](https://github.com/zerocluster/qbittorrent/compare/v1.1.10...v1.1.11)
+
 ### v1.1.10 (2026-07-29)
 
 **Other changes:**
