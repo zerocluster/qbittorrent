@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.1.13 (2026-08-02)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [808c21e](https://github.com/zerocluster/qbittorrent/commit/808c21e); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [f78bc5c](https://github.com/zerocluster/qbittorrent/commit/f78bc5c); 👬 zdm)
+
+Compare with the previous release: [v1.1.12...v1.1.13](https://github.com/zerocluster/qbittorrent/compare/v1.1.12...v1.1.13)
+
 ### v1.1.12 (2026-08-01)
 
 **Other changes:**
