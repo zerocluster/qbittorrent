@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.1.17 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [b4a7bd7](https://github.com/zerocluster/qbittorrent/commit/b4a7bd7); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [812c5d8](https://github.com/zerocluster/qbittorrent/commit/812c5d8); 👬 zdm)
+
+Compare with the previous release: [v1.1.16...v1.1.17](https://github.com/zerocluster/qbittorrent/compare/v1.1.16...v1.1.17)
+
 ### v1.1.16 (2026-08-04)
 
 **Other changes:**
