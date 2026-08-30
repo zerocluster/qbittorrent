@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.26 (2026-08-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [89c1a33](https://github.com/zerocluster/qbittorrent/commit/89c1a33); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [8ab345f](https://github.com/zerocluster/qbittorrent/commit/8ab345f), [d289350](https://github.com/zerocluster/qbittorrent/commit/d289350), [41e7b9b](https://github.com/zerocluster/qbittorrent/commit/41e7b9b), [e2680cf](https://github.com/zerocluster/qbittorrent/commit/e2680cf), [14865a8](https://github.com/zerocluster/qbittorrent/commit/14865a8); 👬 zdm)
+
+Compare with the previous release: [v1.1.25...v1.1.26](https://github.com/zerocluster/qbittorrent/compare/v1.1.25...v1.1.26)
+
 ### v1.1.25 (2026-08-27)
 
 **Other changes:**
