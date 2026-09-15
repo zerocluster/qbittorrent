@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.1.34 (2026-09-15)
+
+**Other changes:**
+
+- chore: migrate to @corejslib/app (● [7baa166](https://github.com/zerocluster/qbittorrent/commit/7baa166); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [55acd38](https://github.com/zerocluster/qbittorrent/commit/55acd38); 👬 zdm)
+
+Compare with the previous release: [v1.1.33...v1.1.34](https://github.com/zerocluster/qbittorrent/compare/v1.1.33...v1.1.34)
+
 ### v1.1.33 (2026-09-15)
 
 **Other changes:**
