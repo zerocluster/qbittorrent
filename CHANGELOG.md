@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.42 (2026-09-26)
+
+**Bug fixes:**
+
+- \[PATCH] fix: await qBittorrent config template rendering (● [e5d842c](https://github.com/zerocluster/qbittorrent/commit/e5d842c); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [5bd64c4](https://github.com/zerocluster/qbittorrent/commit/5bd64c4), [ddb90bd](https://github.com/zerocluster/qbittorrent/commit/ddb90bd); 👬 zdm)
+
+Compare with the previous release: [v1.1.41...v1.1.42](https://github.com/zerocluster/qbittorrent/compare/v1.1.41...v1.1.42)
+
 ### v1.1.41 (2026-09-26)
 
 **Other changes:**
