@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.51 (2026-10-11)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [453df6b](https://github.com/zerocluster/qbittorrent/commit/453df6b), [8f81f48](https://github.com/zerocluster/qbittorrent/commit/8f81f48), [7193526](https://github.com/zerocluster/qbittorrent/commit/7193526); 👬 zdm)
+
+Compare with the previous release: [v1.1.50...v1.1.51](https://github.com/zerocluster/qbittorrent/compare/v1.1.50...v1.1.51)
+
 ### v1.1.50 (2026-10-09)
 
 **Other changes:**
