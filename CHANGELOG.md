@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.67 (2026-11-02)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use Buffer.toBase64 for password hash encoding (● [2f32f63](https://github.com/zerocluster/qbittorrent/commit/2f32f63); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [1dff747](https://github.com/zerocluster/qbittorrent/commit/1dff747), [4a78b8e](https://github.com/zerocluster/qbittorrent/commit/4a78b8e); 👬 zdm)
+
+Compare with the previous release: [v1.1.66...v1.1.67](https://github.com/zerocluster/qbittorrent/compare/v1.1.66...v1.1.67)
+
 ### v1.1.66 (2026-10-29)
 
 **Other changes:**
