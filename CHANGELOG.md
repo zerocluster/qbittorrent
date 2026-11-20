@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.87 (2026-11-20)
+
+**Bug fixes:**
+
+- \[PATCH] fix: register on nginx after app started (● [1c18571](https://github.com/zerocluster/qbittorrent/commit/1c18571); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [76ff8a2](https://github.com/zerocluster/qbittorrent/commit/76ff8a2), [d2d0663](https://github.com/zerocluster/qbittorrent/commit/d2d0663); 👬 zdm)
+
+Compare with the previous release: [v1.1.86...v1.1.87](https://github.com/zerocluster/qbittorrent/compare/v1.1.86...v1.1.87)
+
 ### v1.1.86 (2026-11-19)
 
 **Other changes:**
