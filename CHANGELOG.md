@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.90 (2026-11-21)
+
+**Bug fixes**:
+
+- \[PATCH] fix: remove empty config setting (● [35bb00f](https://github.com/zerocluster/qbittorrent/commit/35bb00f); 👬 zdm)
+
+Compare with the previous release: [v1.1.89...v1.1.90](https://github.com/zerocluster/qbittorrent/compare/v1.1.89...v1.1.90)
+
 ### v1.1.89 (2026-11-21)
 
 **Code refactoring**:
