@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.89 (2026-11-21)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: remove unused app configuration fields (● [341000c](https://github.com/zerocluster/qbittorrent/commit/341000c); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [733e64f](https://github.com/zerocluster/qbittorrent/commit/733e64f); 👬 zdm)
+
+Compare with the previous release: [v1.1.88...v1.1.89](https://github.com/zerocluster/qbittorrent/compare/v1.1.88...v1.1.89)
+
 ### v1.1.88 (2026-11-21)
 
 **Other changes**:
