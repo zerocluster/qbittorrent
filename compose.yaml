@@ -14,7 +14,7 @@ services:
         constraints:
           - "node.labels.qbittorrent == true"
 
-    command: run
+    command: start
 
     secrets:
       - { source: qbittorrent_env.yaml, target: /var/local/package/env.yaml }
