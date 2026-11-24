@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.93 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: rename app run command to start (● [067f7b2](https://github.com/zerocluster/qbittorrent/commit/067f7b2); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [482e9bd](https://github.com/zerocluster/qbittorrent/commit/482e9bd), [84c9aee](https://github.com/zerocluster/qbittorrent/commit/84c9aee); 👬 zdm)
+
+Compare with the previous release: [v1.1.92...v1.1.93](https://github.com/zerocluster/qbittorrent/compare/v1.1.92...v1.1.93)
+
 ### v1.1.92 (2026-11-22)
 
 **Other changes**:
