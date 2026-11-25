@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.94 (2026-11-25)
+
+**Bug fixes**:
+
+- \[PATCH] fix: use start command in development script (● [2aab412](https://github.com/zerocluster/qbittorrent/commit/2aab412); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [c66af31](https://github.com/zerocluster/qbittorrent/commit/c66af31); 👬 zdm)
+
+Compare with the previous release: [v1.1.93...v1.1.94](https://github.com/zerocluster/qbittorrent/compare/v1.1.93...v1.1.94)
+
 ### v1.1.93 (2026-11-24)
 
 **Bug fixes**:
