@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.1.95 (2026-11-26)
+
+**Bug fixes**:
+
+- \[PATCH] fix: rename nginx upstream useSsl option to useTls (● [b835224](https://github.com/zerocluster/qbittorrent/commit/b835224); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [6a2755a](https://github.com/zerocluster/qbittorrent/commit/6a2755a), [3cea54d](https://github.com/zerocluster/qbittorrent/commit/3cea54d), [ba6d65f](https://github.com/zerocluster/qbittorrent/commit/ba6d65f), [dbb8c47](https://github.com/zerocluster/qbittorrent/commit/dbb8c47), [39c7ed3](https://github.com/zerocluster/qbittorrent/commit/39c7ed3); 👬 zdm)
+
+Compare with the previous release: [v1.1.94...v1.1.95](https://github.com/zerocluster/qbittorrent/compare/v1.1.94...v1.1.95)
+
 ### v1.1.94 (2026-11-25)
 
 **Bug fixes**:
